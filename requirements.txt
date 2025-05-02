@@ -1,0 +1,6 @@
+vizdoom
+numpy
+tqdm
+# cuda torch https://pytorch.org/get-started/locally/
+ipykernel
+matplotlib
