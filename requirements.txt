@@ -1,6 +1,7 @@
 vizdoom
 numpy
 tqdm
+stable-baselines3
 # cuda torch https://pytorch.org/get-started/locally/
 ipykernel
 matplotlib
